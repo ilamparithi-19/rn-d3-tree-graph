@@ -92,9 +92,8 @@ Note: For proper understanding see the [example][1]
 
 **Author**
 
-    Anoop Singh (codesingh)
-    Email: anoop100singh@gmail.com
-    Stack Overflow: codesingh(username)
+    Ilamparithi
+    Email: androelam@gmail.com
     
 ----------    
 
@@ -103,4 +102,4 @@ Note: For proper understanding see the [example][1]
 MIT
 
 
-  [1]: https://github.com/codesinghanoop/react-native-d3-tree-graph/tree/master/example
+  [1]: https://github.com/ilamparithi-19/rn-d3-tree-graph/tree/master/example
